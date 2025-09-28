@@ -1,7 +1,7 @@
   describe('Desafio teste de API (CRUD + LOGIN)', () => {
   const novo = Date.now()
   const usuario = {
-    nome: `Erika Santana ${novo}`,
+    nome: `Erika Santanaa ${novo}`,
     email: `qa_${novo}@example.com`,
     password: '##Teste14!',
     administrador: 'true'
